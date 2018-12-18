@@ -9,8 +9,9 @@
         <h1>Hello from SathyaTech</h1>
         <h1>Demo Project from Devops</h1>
         <h1>Hello SATISH KUMAR</h1>
+        <h1>this is kcb</h1>
 
-<table width="60%" bgcolor="pink" align="middle" border="5">
+<table width="40%" bgcolor="blue" align="middle" border="5">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
